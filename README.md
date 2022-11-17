@@ -21,7 +21,7 @@ Advanced
 ## Programming Language 💻
 DAX and Power Query M
 ## Tools 🛠
-Jupyter Notebook, MS-Excel, MS-Power BI
+MS-Excel, MS-Power BI
 ## Approach (Architecture) ⚙
 
 ![App Screenshot](https://user-images.githubusercontent.com/69301816/188277362-3fe42c14-97a2-437e-bb96-4d0c812d0136.JPG)
