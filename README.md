@@ -39,9 +39,6 @@ MS-Excel, MS-Power BI
 - Age range of 40-49 and 50-59 is shows high demand compared to other age group
 - High salary range leads to increase in revenue
 - Customers with a high school diploma and modest annual income buy more products than people with bachelor's degrees
-- According to the customer segmentation described above, approximately 15% of our clients are high value clients, whereas the majority of our clientele are low value and lost clients
-- Client retention in 2014 was subpar
-- 2016 brought about a slight improvement in retention
 
 ## 🎉 Help Me Improve
 Hello Mr. Reader, if you find any bug or anything else that could add more value in this project then please consider raising it to me I will address them asap
